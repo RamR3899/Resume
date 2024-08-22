@@ -1,5 +1,3 @@
-Here's a sample sentence you can add to your `README.md` file for the resume project on GitHub:
-
 ---
 
 # Ganesh Ram R - Resume
